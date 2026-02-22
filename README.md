@@ -14,15 +14,25 @@ Proyecto orientado a demostrar fundamentos sólidos de desarrollo frontend, mane
 - Funcionalidades
 
 Alta y eliminación de ingresos y gastos
+
 Validaciones de formulario (monto mayor a 0, fechas futuras bloqueadas)
+
 Persistencia en LocalStorage
+
 Filtro dinámico por mes
+
 Balance total automático
+
 Cálculo de ahorro y porcentaje
+
 Gráfico de torta (gastos por categoría)
+
 Gráfico comparativo mensual (Ingresos vs Gastos)
+
 Tooltip personalizado con métricas
-Modo oscuro / claro persistente
+
+Modo oscuro / claro 
+
 Diseño responsive
 
 🛠 Tecnologías utilizadas
